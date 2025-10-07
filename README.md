@@ -23,6 +23,11 @@ A seguir está a estrutura sugerida para o bootcamp:
 | Módulo 5: Machine Learning e Integração | - Treinamento de modelos simples no Databricks <br> - Registro via MLflow (se aplicável) <br> - Integração com outros serviços Azure | Projeto prático: pipeline de dados + ML + deploy |
 | Módulo 6: Boas Práticas & Escalabilidade | - Controle de versão de notebooks <br> - Gerenciamento de dependências <br> - Monitoramento, logging e custo | Avaliação final / desafio integrador |
 
+<img width="1838" height="838" alt="image" src="https://github.com/user-attachments/assets/f175495d-5e40-44e4-be87-65f55a7598ea" />
+<img width="1837" height="825" alt="image" src="https://github.com/user-attachments/assets/a38c7f2f-c14a-42bb-8ff1-8d93f6588ca2" />
+<img width="1837" height="846" alt="image" src="https://github.com/user-attachments/assets/6cd1b101-84f8-4305-8103-da7c7fee0baa" />
+
+
 📘 Referências & Material Complementar
 Documentação do Azure Databricks
 Databricks REST API / CLI
